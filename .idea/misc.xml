@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/activity_2main.xml" value="0.25416666666666665" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/activity_main_activitythuocdiung.xml" value="0.203125" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/activity_main_activitythuocgaymete.xml" value="0.23854166666666668" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/activity_main_activitythuockhac.xml" value="0.25416666666666665" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/activity_main_activitythuocks.xml" value="0.25416666666666665" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/activity_main_activitythuocnhomat.xml" value="0.203125" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/activity_main_activitythuoctieuhoa.xml" value="0.25416666666666665" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/activity_main_activitythuoctriho.xml" value="0.25416666666666665" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/activity_main_activitythuoctriseo.xml" value="0.25416666666666665" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/activity_main_chi_tiet_thuoc.xml" value="0.203125" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/activity_thuoc_khang_sinh.xml" value="0.25416666666666665" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/activity_tu_thuoc.xml" value="0.25416666666666665" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/diung.xml" value="0.203125" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/gayme.xml" value="0.23854166666666668" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/gaymete.xml" value="0.23854166666666668" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/khangsinh.xml" value="0.25416666666666665" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/nhomat.xml" value="0.23854166666666668" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/thuockhac.xml" value="0.25416666666666665" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/tieuhoa.xml" value="0.25416666666666665" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/triho.xml" value="0.25416666666666665" />
+        <entry key="..\:/apptracuuthuoc/app/src/main/res/layout/triseo.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

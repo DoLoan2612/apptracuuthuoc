@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">apptracuuthuoc</string>
+    <string-array name="listThuoc">
+        <item>Thuốc Trị Sẹo  </item>
+        <item>Thuốc Chống Dị Ứng </item>
+        <item>Thuốc Gây Mê/Tê</item>
+        <item>Thuốc Nhỏ Mắt</item>
+        <item>Thuốc Kháng Sinh</item>
+        <item>Thuốc Tiêu Hóa</item>
+        <item>Thuốc Trị Ho</item>
+        <item>Thuốc Khác </item>
+    </string-array>
+</resources>
